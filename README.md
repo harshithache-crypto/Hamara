@@ -1,5 +1,5 @@
-# SE350Project
-• Checklist:
+# Hamara
+Checklist: 
 – Are you in a Group? No
 – If so, who else is in your group? N/A
 – Do you have your GitHub account set up? Yes
