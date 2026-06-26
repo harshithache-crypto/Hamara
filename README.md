@@ -1,4 +1,4 @@
-# Hamara
+# SE350Project
 Checklist: 
 – Are you in a Group? No
 – If so, who else is in your group? N/A
